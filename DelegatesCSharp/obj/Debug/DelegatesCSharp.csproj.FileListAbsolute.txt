@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\DelegatesCSharp\DelegatesCSharp\bin\Debug\DelegatesCSharp.exe.config
+C:\Users\sande\source\repos\DelegatesCSharp\DelegatesCSharp\bin\Debug\DelegatesCSharp.exe
+C:\Users\sande\source\repos\DelegatesCSharp\DelegatesCSharp\bin\Debug\DelegatesCSharp.pdb
+C:\Users\sande\source\repos\DelegatesCSharp\DelegatesCSharp\obj\Debug\DelegatesCSharp.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\DelegatesCSharp\DelegatesCSharp\obj\Debug\DelegatesCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\DelegatesCSharp\DelegatesCSharp\obj\Debug\DelegatesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\DelegatesCSharp\DelegatesCSharp\obj\Debug\DelegatesCSharp.exe
+C:\Users\sande\source\repos\DelegatesCSharp\DelegatesCSharp\obj\Debug\DelegatesCSharp.pdb
